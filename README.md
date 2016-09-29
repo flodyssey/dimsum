@@ -1,3 +1,3 @@
 # dimsum
 
-Password - The play that we watched on our first date
+password: the play that we watched on our first date
